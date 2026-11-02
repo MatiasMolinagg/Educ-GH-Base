@@ -1,3 +1,4 @@
+## 🚀 [HAZ CLIC AQUÍ PARA ABRIR LAS FILMINAS INTERACTIVAS Y LA GUÍA WEB](https://matiasmolinagg.github.io/Educ-GH-Base/) 
 # Git & GitHub Masterclass 2026 — Guía Paso a Paso, Filminas Interactivas y Proyecto Final
 
 Repositorio oficial de aprendizaje de **Git y GitHub** desde cero hasta flujos de equipo en producción (`main`, `develop`, `Pull Requests`, `Rulesets`, `Rebase`, `Tags`, `Trunk-Based Development` y el proyecto práctico **"Notas Colab"** con Django + `uv`).
